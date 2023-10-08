@@ -1,0 +1,25 @@
+
+
+
+1. Open up Betaflight Configurator 
+
+2. Click on CLI
+
+3.  Open the “ Beeps-Pavo-Pico-Version-2-Final-Settings” file
+
+4. Select all
+
+5. Copy
+
+6. Go back to the CLI in Betaflight 
+
+7. At the bottom put your cursor into the space at the bottom
+
+8. Paste it in
+
+9. Type:  save
+
+10. Press enter on your keyboard. 
+
+Make sure your goggles are bound to the DJI O3 air unit and the DJI controller too. 
+
